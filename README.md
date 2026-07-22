@@ -19,8 +19,11 @@
 
 - 🎓 **[Dream Space — Microsoft Capstone (2026)](https://github.com/jamie-dongjae/2026-sem6-microsoft-capstone)** — dual-sided digital-literacy ed-tech app + a fully-local RAG tutor (UvA × Microsoft). I led the end-to-end build.
   ### ▶ Live: [Teacher dashboard](https://dreamspace-teacher-dsc6ced2.azurewebsites.net/) · [Student app](https://dreamspace-student-dsc6ced2.azurewebsites.net/demo)
-- 🤖 **[Machine Learning Portfolio (2025)](https://github.com/jamie-dongjae/2025-sem4-machine-learning)** — 8 projects: XGBoost, ARIMA, a neural network from scratch, PCA / t-SNE / UMAP, and causal inference.
-- 📊 **[Data Science Portfolio (2024)](https://github.com/jamie-dongjae/2024-sem3-data-science)** — FinBERT sentiment on Fed-speech, LDA topic modelling, Bayesian regression, and web scraping.
+**Machine Learning** — organised by technique (BSc coursework, UvA 2024–25):
+- 🗣️ **[natural-language-processing](https://github.com/jamie-dongjae/natural-language-processing)** — FinBERT sentiment, LDA topic modelling, VADER, TF-IDF, web scraping
+- 📈 **[supervised-machine-learning](https://github.com/jamie-dongjae/supervised-machine-learning)** — regression, regularization, XGBoost / ensembles, a neural net from scratch
+- ⏱️ **[time-series-forecasting](https://github.com/jamie-dongjae/time-series-forecasting)** — ARIMA, stationarity, ACF/PACF (COVID, Bitcoin)
+- 🧩 **[unsupervised-and-causal-inference](https://github.com/jamie-dongjae/unsupervised-and-causal-inference)** — PCA / t-SNE / UMAP, clustering, propensity-score matching
 
 ## 🔗 Links
 - 💼 LinkedIn: [linkedin.com/in/djamie](https://www.linkedin.com/in/djamie/)
