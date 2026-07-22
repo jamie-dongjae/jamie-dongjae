@@ -1,8 +1,8 @@
-## Hi, I'm Jamie Dongjae 👋
+## Hi, I'm Jamie Lee 👋
 
 ## 👨‍💻 About Me
-- 🎓 BSc **Computational Social Science**, University of Amsterdam
-- 🔬 Focus: **machine learning, NLP, data science, and applied AI / full-stack**
+- 🎓 Graduate of BSc **Computational Social Science**, University of Amsterdam
+- 🔬 Focus: **ML, NLP, data science, and applied AI, Business applications**
 - 🧠 I turn messy real-world data into models — and models into working products
 
 ## 🛠 Tech Stack
@@ -26,4 +26,4 @@
 - 💼 LinkedIn: [linkedin.com/in/djamie](https://www.linkedin.com/in/djamie/)
 - 📧 Email: jamie.dongjae@gmail.com
 
-<sub>📍 Amsterdam · BSc Computational Social Science, University of Amsterdam</sub>
+<sub>📍 Amsterdam </sub>
