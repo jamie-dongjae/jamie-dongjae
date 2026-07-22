@@ -18,7 +18,7 @@
 ## 🚀 Featured Projects
 
 - 🎓 **[Dream Space — Microsoft Capstone (2026)](https://github.com/jamie-dongjae/2026-sem6-microsoft-capstone)** — dual-sided digital-literacy ed-tech app + a fully-local RAG tutor (UvA × Microsoft). I led the end-to-end build.
-  ### ▶ Live: [Teacher dashboard](https://dreamspace-teacher-dsc6ced2.azurewebsites.net/) · [Student app](https://dreamspace-student-dsc6ced2.azurewebsites.net/demo)
+  ### ▶ Live Demo: [Teacher dashboard](https://dreamspace-teacher-dsc6ced2.azurewebsites.net/) · [Student app](https://dreamspace-student-dsc6ced2.azurewebsites.net/demo)
 **Machine Learning** — organised by technique (BSc coursework, UvA 2024–25):
 - 🗣️ **[natural-language-processing](https://github.com/jamie-dongjae/natural-language-processing)** — FinBERT sentiment, LDA topic modelling, VADER, TF-IDF, web scraping
 - 📈 **[supervised-machine-learning](https://github.com/jamie-dongjae/supervised-machine-learning)** — regression, regularization, XGBoost / ensembles, a neural net from scratch
