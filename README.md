@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 - 🎓 Graduate of BSc **Computational Social Science**, University of Amsterdam
 - 🔬 Focus: **ML, NLP, data science, and applied AI, Business applications**
-- 🧠 I turn messy real-world data into models — and models into working products
+- 🧠 I turn messy real-world data into models and models into working products
 
 ## 🛠 Tech Stack
 
