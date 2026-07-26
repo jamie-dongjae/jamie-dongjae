@@ -18,7 +18,7 @@
 ## 🚀 Featured Projects
 
 - 🎓 **[Microsoft Dream Space — Digital-Literacy Platform (MVP)](https://github.com/jamie-dongjae/dream-space-digital-literacy-platform)** — dual-sided ed-tech platform + a fully-local RAG tutor. Led the technical build.
-  ### ▶ Live Demo: [Teacher dashboard](https://dreamspace-teacher-dsc6ced2.azurewebsites.net/) · [Student app](https://dreamspace-student-dsc6ced2.azurewebsites.net/demo)
+  ### ▶ Live Demo: [Teacher dashboard](https://mugiiwaraboi.pythonanywhere.com/) · [Student app](https://mugiiwaraboi.pythonanywhere.com/student/demo)
 **Machine Learning** — organised by technique (BSc coursework, UvA 2024–25):
 - 🗣️ **[natural-language-processing](https://github.com/jamie-dongjae/natural-language-processing)** — FinBERT sentiment, LDA topic modelling, VADER, TF-IDF, web scraping
 - 📈 **[supervised-machine-learning](https://github.com/jamie-dongjae/supervised-machine-learning)** — regression, regularization, XGBoost / ensembles, a neural net from scratch
