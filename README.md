@@ -17,10 +17,19 @@
 
 ## 🚀 Featured Projects
 
-- 🎯 **[Application Tracker](https://github.com/jamie-dongjae/application-tracker)** — local-first job-application tracker I built during my own job search. Paste a posting URL and company / title / location are prefilled from the posting itself (ATS APIs → JSON-LD → heuristics); a plain Excel workbook stays the database; applications land as pins on a satellite globe. FastAPI + vanilla JS, 70 offline tests, CI.
-  ### ▶ Live Demo: [Try it in the browser](https://jamie-dongjae.github.io/application-tracker/)
-- 🎓 **[Microsoft Dream Space — Digital-Literacy Platform (MVP)](https://github.com/jamie-dongjae/dream-space-digital-literacy-platform)** — dual-sided ed-tech platform + a fully-local RAG tutor. Led the technical build.
-  ### ▶ Live Demo: [Teacher dashboard](https://mugiiwaraboi.pythonanywhere.com/) · [Student app](https://mugiiwaraboi.pythonanywhere.com/student/demo)
+### 🎯 [Application Tracker](https://github.com/jamie-dongjae/application-tracker)
+
+Local-first job-application tracker I built during my own job search. Paste a posting URL and company / title / location are prefilled from the posting itself (ATS APIs → JSON-LD → heuristics); a plain Excel workbook stays the database; applications land as pins on a satellite globe. FastAPI + vanilla JS, 70 offline tests, CI.
+
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://jamie-dongjae.github.io/application-tracker/)
+[![CI](https://img.shields.io/github/actions/workflow/status/jamie-dongjae/application-tracker/ci.yml?style=for-the-badge&label=tests)](https://github.com/jamie-dongjae/application-tracker/actions)
+
+### 🎓 [Microsoft Dream Space — Digital-Literacy Platform (MVP)](https://github.com/jamie-dongjae/dream-space-digital-literacy-platform)
+
+Dual-sided ed-tech platform + a fully-local RAG tutor. Led the technical build.
+
+[![Teacher Dashboard](https://img.shields.io/badge/%E2%96%B6%20Teacher%20Dashboard-2ea44f?style=for-the-badge)](https://mugiiwaraboi.pythonanywhere.com/)
+[![Student App](https://img.shields.io/badge/%E2%96%B6%20Student%20App-2ea44f?style=for-the-badge)](https://mugiiwaraboi.pythonanywhere.com/student/demo)
 **Machine Learning** — organised by technique (BSc coursework, UvA 2024–25):
 - 🗣️ **[natural-language-processing](https://github.com/jamie-dongjae/natural-language-processing)** — FinBERT sentiment, LDA topic modelling, VADER, TF-IDF, web scraping
 - 📈 **[supervised-machine-learning](https://github.com/jamie-dongjae/supervised-machine-learning)** — regression, regularization, XGBoost / ensembles, a neural net from scratch
