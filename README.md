@@ -30,6 +30,7 @@ Dual-sided ed-tech platform + a fully-local RAG tutor. Led the technical build.
 
 [![Teacher Dashboard](https://img.shields.io/badge/%E2%96%B6%20Teacher%20Dashboard-2ea44f?style=for-the-badge)](https://mugiiwaraboi.pythonanywhere.com/)
 [![Student App](https://img.shields.io/badge/%E2%96%B6%20Student%20App-2ea44f?style=for-the-badge)](https://mugiiwaraboi.pythonanywhere.com/student/demo)
+
 **Machine Learning** — organised by technique (BSc coursework, UvA 2024–25):
 - 🗣️ **[natural-language-processing](https://github.com/jamie-dongjae/natural-language-processing)** — FinBERT sentiment, LDA topic modelling, VADER, TF-IDF, web scraping
 - 📈 **[supervised-machine-learning](https://github.com/jamie-dongjae/supervised-machine-learning)** — regression, regularization, XGBoost / ensembles, a neural net from scratch
