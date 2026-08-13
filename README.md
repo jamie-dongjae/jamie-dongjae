@@ -13,10 +13,12 @@
 
 - **Languages:** Python, JavaScript, SQL
 - **ML / Data:** pandas, NumPy, scikit-learn, statsmodels, XGBoost, Transformers (FinBERT), Ollama / RAG
-- **Web / Infra:** Flask, Jinja, Tailwind, SQLite, Azure, Docker, Git
+- **Web / Infra:** Flask, FastAPI, Jinja, Tailwind, SQLite, Azure, Docker, Git
 
 ## 🚀 Featured Projects
 
+- 🎯 **[Application Tracker](https://github.com/jamie-dongjae/application-tracker)** — local-first job-application tracker I built during my own job search. Paste a posting URL and company / title / location are prefilled from the posting itself (ATS APIs → JSON-LD → heuristics); a plain Excel workbook stays the database; applications land as pins on a satellite globe. FastAPI + vanilla JS, 70 offline tests, CI.
+  ### ▶ Live Demo: [Try it in the browser](https://jamie-dongjae.github.io/application-tracker/)
 - 🎓 **[Microsoft Dream Space — Digital-Literacy Platform (MVP)](https://github.com/jamie-dongjae/dream-space-digital-literacy-platform)** — dual-sided ed-tech platform + a fully-local RAG tutor. Led the technical build.
   ### ▶ Live Demo: [Teacher dashboard](https://mugiiwaraboi.pythonanywhere.com/) · [Student app](https://mugiiwaraboi.pythonanywhere.com/student/demo)
 **Machine Learning** — organised by technique (BSc coursework, UvA 2024–25):
