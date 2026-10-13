@@ -4,7 +4,7 @@
 - 🎓 BSc **Computational Social Science**, University of Amsterdam
 - 🔬 Focus: integrations, applied AI, data pipelines, working products
 - 🧠 I turn messy real-world data into models and models into working products
-- 🇳🇱 Amsterdam · 🇰🇷 Korean, 🇬🇧 English, 🇳🇱 Dutch (B1)
+
 
 ## 🛠 Tech Stack
 
