@@ -1,4 +1,4 @@
-## Hi, I'm Jamie Lee 👋
+## Hi, I'm Jamie! 👋
 
 ## 👨‍💻 About Me
 - 🎓 BSc **Computational Social Science**, University of Amsterdam
