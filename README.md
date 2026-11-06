@@ -23,22 +23,22 @@
 
 Portfolio build for Solutions Engineering: three n8n workflows against a FastAPI mock of a legacy ERP and a canonical Tenant Platform, plus a one-shot migration script and a Claude triage agent (with a rule-based fallback). Realistic error semantics (401 / 403 / 409 / 422 / 429 Retry-After / 503), idempotent sync, hand-labelled 20-case eval at 95%, 44 pytest tests, GitHub Actions CI.
 
-[![Live Report](https://img.shields.io/badge/%E2%96%B6%20Live%20Report-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://jamie-dongjae.github.io/n8n-integration-lab/)
-[![CI](https://img.shields.io/github/actions/workflow/status/jamie-dongjae/n8n-integration-lab/ci.yml?style=for-the-badge&label=tests)](https://github.com/jamie-dongjae/n8n-integration-lab/actions)
+[![Live Report](assets/badges/live-report.svg)](https://jamie-dongjae.github.io/n8n-integration-lab/)
+[![CI](https://github.com/jamie-dongjae/n8n-integration-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/jamie-dongjae/n8n-integration-lab/actions)
 
 ### 🎯 [Application Tracker](https://github.com/jamie-dongjae/application-tracker)
 
 Local-first job-application tracker I built during my own job search. Paste a posting URL and company / title / location are prefilled from the posting itself (ATS APIs → JSON-LD → heuristics); a plain Excel workbook stays the database; applications land as pins on a satellite globe. FastAPI + vanilla JS, 70 offline tests, CI.
 
-[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://jamie-dongjae.github.io/application-tracker/)
-[![CI](https://img.shields.io/github/actions/workflow/status/jamie-dongjae/application-tracker/ci.yml?style=for-the-badge&label=tests)](https://github.com/jamie-dongjae/application-tracker/actions)
+[![Live Demo](assets/badges/live-demo.svg)](https://jamie-dongjae.github.io/application-tracker/)
+[![CI](https://github.com/jamie-dongjae/application-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/jamie-dongjae/application-tracker/actions)
 
 ### 🎓 [Microsoft Dream Space Digital-Literacy Platform (MVP)](https://github.com/jamie-dongjae/dream-space-digital-literacy-platform)
 
 Dual-sided ed-tech platform + a fully-local RAG tutor. Led the technical build.
 
-[![Teacher Dashboard](https://img.shields.io/badge/%E2%96%B6%20Teacher%20Dashboard-2ea44f?style=for-the-badge)](https://mugiiwaraboi.pythonanywhere.com/)
-[![Student App](https://img.shields.io/badge/%E2%96%B6%20Student%20App-2ea44f?style=for-the-badge)](https://mugiiwaraboi.pythonanywhere.com/student/demo)
+[![Teacher Dashboard](assets/badges/teacher-dashboard.svg)](https://mugiiwaraboi.pythonanywhere.com/)
+[![Student App](assets/badges/student-app.svg)](https://mugiiwaraboi.pythonanywhere.com/student/demo)
 
 ### 📚 Machine Learning coursework (UvA 2024–25)
 
