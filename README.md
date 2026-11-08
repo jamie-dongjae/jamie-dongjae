@@ -1,5 +1,7 @@
 ## Hi, I'm Jamie! 👋
 
+🖥️ **My portfolio: [ldj.app](https://ldj.app)**. A retro desk in 3D with my own Windows 98-style OS on the computer. Best on a laptop, works on a phone too.
+
 ## 👨‍💻 About Me
 - 🎓 BSc **Computational Social Science**, University of Amsterdam
 - 🔬 Focus: integrations, applied AI, data pipelines, working products
@@ -18,6 +20,12 @@
 - **Web / Infra:** FastAPI, Flask, Jinja, Tailwind, SQLite, Docker, GitHub Actions, GitHub Pages
 
 ## 🚀 Featured Projects
+
+### 🖥️ [ldj.app](https://ldj.app)
+
+My portfolio site: a 3D room in three.js, built on [Henry Heffernan's open-source room](https://github.com/henryjeff/portfolio-website), with a PC-98 on the desk running my own Windows 98-style OS in React and TypeScript. Inside are my résumé, experience, project demos and a contact form, and a TV on the floor plays Bloomberg live. Served by Cloudflare Workers.
+
+[![Visit Site](assets/badges/visit-site.svg)](https://ldj.app)
 
 ### 🧩 [n8n-integration-lab](https://github.com/jamie-dongjae/n8n-integration-lab)
 
@@ -49,6 +57,7 @@ Organised by technique:
 - 🧩 **[unsupervised-and-causal-inference](https://github.com/jamie-dongjae/unsupervised-and-causal-inference)**: PCA / t-SNE / UMAP, clustering, propensity-score matching
 
 ## 🔗 Links
+- 🌐 Website: [ldj.app](https://ldj.app)
 - 💼 LinkedIn: [linkedin.com/in/djamie](https://www.linkedin.com/in/djamie/)
 - 📧 Email: jamie.dongjae@gmail.com
 
