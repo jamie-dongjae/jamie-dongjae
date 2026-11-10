@@ -61,4 +61,4 @@ Organised by technique:
 - 💼 LinkedIn: [linkedin.com/in/djamie](https://www.linkedin.com/in/djamie/)
 - 📧 Email: jamie.dongjae@gmail.com
 
-<sub>📍 Amsterdam</sub>
+📍 Amsterdam</sub>
